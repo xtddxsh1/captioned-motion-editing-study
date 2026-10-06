@@ -1,0 +1,11 @@
+1
+00:00:00,250 --> 00:00:03,000
+Start with a clear hook.
+
+2
+00:00:03,000 --> 00:00:06,000
+Cut straight to the action.
+
+3
+00:00:06,000 --> 00:00:09,000
+Keep the message readable.
