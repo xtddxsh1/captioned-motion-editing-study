@@ -22,3 +22,19 @@ The source writes output only within its own directory. Its font paths are Windo
 ## Scope
 
 This is one reusable capability study. A commissioned clip requires an authorized brief and source material, agreed dimensions, price, acceptance, limited revisions, delivery date and payment terms before work begins. No performance or sales outcome is promised.
+
+## Fixed-brief editing pilot — proposed USD 15
+
+For tutorial creators and small teams with an existing editing reference and footage they are authorized to use: one finished clip of up to 30 seconds, in one agreed aspect ratio, assembled from up to five minutes of supplied footage/images.
+
+Please supply the reference, the intended cut sequence or short brief, approved English caption text, and any licensed music you want included. The pilot covers basic cuts, sequencing, caption placement and the agreed MP4 export. New filming, new voiceover, custom illustration, stock purchases and native Premiere/After Effects/DaVinci projects are outside this offer.
+
+**Delivery:** H.264/AAC MP4, an SRT file if captions are required, and the FFmpeg edit recipe with supporting source files. Acceptance checks are the agreed sequence/reference, approved caption text, dimensions, complete playback and successful decoding. One consolidated revision within the agreed scope is included.
+
+**Timing and payment:** the proposed first review is within two working days of a jointly agreed start date, after the source material, permissions, scope, acceptance and payment arrangement are confirmed in writing. Proposed payment is USD 15 on written acceptance, within two business days. The actual payment method, Singapore eligibility, date and fees must be confirmed before production; no payment is collected through this repository.
+
+For a current paid brief, email **xt20208022@gmail.com** with the target format, reference and approximate source duration. Do not put confidential footage, credentials or customer data in public issues. Files should be shared only through a mutually approved private channel after usage and confidentiality permission is established.
+
+The pilot uses an AI-assisted Python/FFmpeg workflow; confirm that the supplied material may be processed with these tools. Commissioned files and usage rights are agreed separately from this study's MIT license.
+
+The study above is self-initiated. Its original assets and source remain MIT licensed. This offer does not represent prior client experience, an accepted order or evidence of income.
